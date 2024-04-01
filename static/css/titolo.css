@@ -1,0 +1,13 @@
+.title{
+    font-family: 'Roboto', sans-serif;
+}
+
+.title h2{
+    font-size: 48px ;
+    font-weight: bold ;
+    line-height: 1;
+    width: 710 px ;
+    height: 224px ;
+    margin-left: 365 px ;
+    margin-right: 365 px;
+}
