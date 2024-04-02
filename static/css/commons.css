@@ -73,4 +73,11 @@
     font-weight: 900;
     font-style: italic;
   }
-  
+
+
+.overpass-mono{
+  font-family: "Overpass Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight ;
+  font-style : normal;
+}

@@ -1,13 +1,13 @@
-.testo{
+.firma{
     font-family: 'overpass-mono', monospace;
 }
 
-.testo h4{
-    width: 710 px ;
-    height: 456 px ;
+.firma h4{
+    width: 170 px;
+    height: 40 px ;
     line-height: 24 px ;
-    font-size: 18 px ;
-    font-weight: normal ;
+    font-size: 22 px ;
+    font-weight: bold ;
     margin-left: 365 px ;
     margin-right: 365 px;
 }
